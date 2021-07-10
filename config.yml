@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: roonreadydata/data
+  name: git-gateway
   branch: main
   publish_mode: editorial_workflow
 media_folder: public/img
